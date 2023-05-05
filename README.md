@@ -6,7 +6,7 @@
 |---|---|
 | Product Owner | Anca Pop |
 | Software Developer| Diana Popescu|
-| Tester | Dumitru Katy |
+| Tester | Ady Balo |
 
 | Date  | Descriere | Author | Comments |
 |---|---|---|---|
