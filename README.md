@@ -44,4 +44,4 @@ Orange **HRM Project**
 ![Linux mascot](tux.avif)
 
 
-Link catre fisier [Screenshot for ](link)
+Mascota linux [Mascota 2 ](link)
