@@ -1,1 +1,1 @@
-# Proiect-Practic-Testare-Manuala
+ Manual-Testing-Portfolio
