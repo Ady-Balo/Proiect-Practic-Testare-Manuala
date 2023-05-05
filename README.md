@@ -40,4 +40,4 @@ Orange HRM *Project*
 Orange **HRM Project**
 
 
-![Linux mascot](link imagine)
+![Linux mascot](tux.avif)
