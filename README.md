@@ -44,4 +44,4 @@ Orange **HRM Project**
 ![Linux mascot](tux.avif)
 
 
-Mascota linux [Mascota 2 ](link)
+Mascota linux [ Mascota 2 ](https://raw.githubusercontent.com/Ady-Balo/Proiect-Practic-Testare-Manuala/main/tux2.avif)
